@@ -1,0 +1,780 @@
+Uri: http://img.youtube.com/vi/fafEHMnFe3g/0.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\vi\fafEHMnFe3g\0.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/about-1.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\about-1.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/accordian.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\accordian.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/alertbox.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\alertbox.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/button.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\button.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/carousel.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\carousel.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/client_logo.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\client_logo.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/contact-1.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\contact-1.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/counter.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\counter.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://thememajestic.com/modern/css/custom.css
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\css\custom.css
+Content Type: text/css
+
+Uri: http://thememajestic.com/modern/css/fontawesome/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\css\fontawesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://thememajestic.com/modern/css/fontawesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\css\fontawesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://thememajestic.com/modern/css/fontawesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\css\fontawesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://thememajestic.com/modern/css/fontawesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\css\fontawesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://thememajestic.com/modern/css/fontawesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\css\fontawesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://thememajestic.com/modern/css/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\css\fontawesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://thememajestic.com/modern/css/fontawesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\css\fontawesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: http://thememajestic.com/modern/css/loader.min.css
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\css\loader.min.css
+Content Type: text/css
+
+Uri: http://thememajestic.com/modern/css/magnific-popup.min.css
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\css\magnific-popup.min.css
+Content Type: text/css
+
+Uri: http://thememajestic.com/modern/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://thememajestic.com/modern/css/rev-slider-4.css
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\css\rev-slider-4.css
+Content Type: text/css
+
+Uri: http://thememajestic.com/modern/css/style.css
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\css\style.css
+Content Type: text/css
+
+Uri: http://thememajestic.com/modern/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://thememajestic.com/modern/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://thememajestic.com/modern/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://thememajestic.com/modern/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: http://thememajestic.com/modern/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: http://thememajestic.com/modern/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: http://thememajestic.com/modern/google_map.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\google_map.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/icon_box.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\icon_box.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/images/background/bg-11.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\background\bg-11.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/background/ptn-1.png
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\background\ptn-1.png
+Content Type: image/png
+
+Uri: http://thememajestic.com/modern/images/banner/1.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\banner\1.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/banner/2.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\banner\2.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/banner/3.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\banner\3.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/banner/4.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\banner\4.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/banner/5.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\banner\5.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/banner/6.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\banner\6.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/blog/default/thum1.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\blog\default\thum1.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/blog/default/thum2.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\blog\default\thum2.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/blog/default/thum3.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\blog\default\thum3.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/blog/default/thum6.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\blog\default\thum6.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/blog/default/thum7.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\blog\default\thum7.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/blog/default/thum8.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\blog\default\thum8.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/blog/landscap-half/pic1.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\blog\landscap-half\pic1.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/blog/landscap-half/pic2.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\blog\landscap-half\pic2.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/blog/recent-blog/pic1.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\blog\recent-blog\pic1.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/blog/recent-blog/pic2.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\blog\recent-blog\pic2.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/blog/recent-blog/pic3.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\blog\recent-blog\pic3.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/blog/square/pic1.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\blog\square\pic1.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/client-logo/w1.png
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\client-logo\w1.png
+Content Type: image/png
+
+Uri: http://thememajestic.com/modern/images/client-logo/w2.png
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\client-logo\w2.png
+Content Type: image/png
+
+Uri: http://thememajestic.com/modern/images/client-logo/w3.png
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\client-logo\w3.png
+Content Type: image/png
+
+Uri: http://thememajestic.com/modern/images/client-logo/w4.png
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\client-logo\w4.png
+Content Type: image/png
+
+Uri: http://thememajestic.com/modern/images/client-logo/w5.png
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\client-logo\w5.png
+Content Type: image/png
+
+Uri: http://thememajestic.com/modern/images/client-logo/w6.png
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\client-logo\w6.png
+Content Type: image/png
+
+Uri: http://thememajestic.com/modern/images/favicon.ico
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://thememajestic.com/modern/images/favicon.png
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\favicon.png
+Content Type: image/png
+
+Uri: http://thememajestic.com/modern/images/gallery/pic1.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\pic1.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/pic2.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\pic2.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/pic3.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\pic3.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/pic4.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\pic4.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/pic5.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\pic5.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/pic6.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\pic6.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/pic7.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\pic7.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/pic8.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\pic8.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/portrait/pic1.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\portrait\pic1.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/portrait/pic2.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\portrait\pic2.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/portrait/pic3.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\portrait\pic3.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/portrait/pic4.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\portrait\pic4.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/portrait/pic5.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\portrait\pic5.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/portrait/pic6.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\portrait\pic6.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/portrait/pic7.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\portrait\pic7.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/thumb/pic1.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\thumb\pic1.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/thumb/pic2.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\thumb\pic2.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/thumb/pic3.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\thumb\pic3.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/thumb/pic4.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\thumb\pic4.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/thumb/pic5.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\thumb\pic5.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/thumb/pic6.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\thumb\pic6.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/thumb/pic7.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\thumb\pic7.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/gallery/thumb/pic8.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\gallery\thumb\pic8.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/logo-dark.png
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\logo-dark.png
+Content Type: image/png
+
+Uri: http://thememajestic.com/modern/images/logo-light.png
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\logo-light.png
+Content Type: image/png
+
+Uri: http://thememajestic.com/modern/images/main-slider/slider1/slide1.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\main-slider\slider1\slide1.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/main-slider/slider1/slide2.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\main-slider\slider1\slide2.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/main-slider/slider1/slide3.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\main-slider\slider1\slide3.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/main-slider/slider3/slide1-b.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\main-slider\slider3\slide1-b.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/main-slider/slider3/slide2-b.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\main-slider\slider3\slide2-b.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/our-team5/pic1.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\our-team5\pic1.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/our-team5/pic2.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\our-team5\pic2.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/our-team5/pic3.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\our-team5\pic3.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/our-team5/pic4.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\our-team5\pic4.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/our-team5/pic5.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\our-team5\pic5.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/our-work/pic1.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\our-work\pic1.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/our-work/pic2.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\our-work\pic2.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/our-work/pic3.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\our-work\pic3.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/our-work/pic4.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\our-work\pic4.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/our-work/pic5.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\our-work\pic5.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/our-work/pic6.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\our-work\pic6.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/projects/pic-1.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\projects\pic-1.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/projects/pic-2.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\projects\pic-2.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/projects/pic-3.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\projects\pic-3.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/projects/pic-4.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\projects\pic-4.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/projects/pic-5.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\projects\pic-5.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/slider-corner.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\slider-corner.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/testimonials/pic1.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\testimonials\pic1.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/testimonials/pic2.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\testimonials\pic2.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/testimonials/pic3.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\testimonials\pic3.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/images/testimonials/pic4.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\images\testimonials\pic4.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/index-2.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\index-2.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/index-3.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\index-3.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/index-4.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\index-4.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/index-5.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\index-5.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/index.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\index.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/js/app.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\js\app.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/js/counterup.min.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\js\counterup.min.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/js/custom.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\js\custom.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/js/jquery-1.12.4.min.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\js\jquery-1.12.4.min.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/js/jquery.owl-filter.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\js\jquery.owl-filter.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/js/magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\js\magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/js/map.script.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\js\map.script.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/js/particles.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\js\particles.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/js/rev-script-1.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\js\rev-script-1.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/js/rev-script-2.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\js\rev-script-2.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/js/rev-script-3.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\js\rev-script-3.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/js/scrolla.min.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\js\scrolla.min.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/js/shortcode.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\js\shortcode.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/js/stellar.min.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\js\stellar.min.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/js/waypoints-sticky.min.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\js\waypoints-sticky.min.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/js/waypoints.min.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/list_group.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\list_group.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/media/images/video2.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\media\images\video2.jpg
+Content Type: image/jpeg
+
+Uri: http://thememajestic.com/modern/modal_popup.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\modal_popup.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/news-grid.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\news-grid.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/news-listing.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\news-listing.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/news-masonry.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\news-masonry.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/plugins/revolution/revolution-addons/beforeafter/css/revolution.addon.beforeafter.css
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\plugins\revolution\revolution-addons\beforeafter\css\revolution.addon.beforeafter.css
+Content Type: text/css
+
+Uri: http://thememajestic.com/modern/plugins/revolution/revolution-addons/beforeafter/js/revolution.addon.beforeafter.min.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\plugins\revolution\revolution-addons\beforeafter\js\revolution.addon.beforeafter.min.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/plugins/revolution/revolution/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\plugins\revolution\revolution\assets\coloredbg.png
+Content Type: image/png
+
+Uri: http://thememajestic.com/modern/plugins/revolution/revolution/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\plugins\revolution\revolution\assets\gridtile.png
+Content Type: image/png
+
+Uri: http://thememajestic.com/modern/plugins/revolution/revolution/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\plugins\revolution\revolution\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: http://thememajestic.com/modern/plugins/revolution/revolution/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\plugins\revolution\revolution\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: http://thememajestic.com/modern/plugins/revolution/revolution/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\plugins\revolution\revolution\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: http://thememajestic.com/modern/plugins/revolution/revolution/assets/loader.gif
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\plugins\revolution\revolution\assets\loader.gif
+Content Type: image/gif
+
+Uri: http://thememajestic.com/modern/plugins/revolution/revolution/css/closedhand.cur
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\plugins\revolution\revolution\css\closedhand.cur
+Content Type: 
+
+Uri: http://thememajestic.com/modern/plugins/revolution/revolution/css/navigation.css
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\plugins\revolution\revolution\css\navigation.css
+Content Type: text/css
+
+Uri: http://thememajestic.com/modern/plugins/revolution/revolution/css/openhand.cur
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\plugins\revolution\revolution\css\openhand.cur
+Content Type: 
+
+Uri: http://thememajestic.com/modern/plugins/revolution/revolution/css/settings.css
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\plugins\revolution\revolution\css\settings.css
+Content Type: text/css
+
+Uri: http://thememajestic.com/modern/plugins/revolution/revolution/fonts/revicons/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\plugins\revolution\revolution\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://thememajestic.com/modern/plugins/revolution/revolution/fonts/revicons/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\plugins\revolution\revolution\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: http://thememajestic.com/modern/plugins/revolution/revolution/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\plugins\revolution\revolution\fonts\revicons\revicons.ttf
+Content Type: font/ttf
+
+Uri: http://thememajestic.com/modern/plugins/revolution/revolution/fonts/revicons/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\plugins\revolution\revolution\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: http://thememajestic.com/modern/plugins/revolution/revolution/js/extensions/revolution-plugin.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\plugins\revolution\revolution\js\extensions\revolution-plugin.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\plugins\revolution\revolution\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/plugins/revolution/revolution/js/jquery.themepunch.tools.min.js
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\plugins\revolution\revolution\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: http://thememajestic.com/modern/post-gallery.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\post-gallery.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/post-image.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\post-image.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/post-right-sidebar.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\post-right-sidebar.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/post-video.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\post-video.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/pricing_table.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\pricing_table.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/project-detail.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\project-detail.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/table.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\table.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/tabs.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\tabs.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/video.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\video.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/work-carousel.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\work-carousel.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/work-grid.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\work-grid.html
+Content Type: text/html
+
+Uri: http://thememajestic.com/modern/work-masonry.html
+File Name: C:\Downloaded Web Sites\thememajestic.com\modern\work-masonry.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Crete+Round:400,400i&subset=latin-ext
+File Name: C:\Downloaded Web Sites\thememajestic.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,800,800i,900
+File Name: C:\Downloaded Web Sites\thememajestic.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i
+File Name: C:\Downloaded Web Sites\thememajestic.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/creteround/v14/55xoey1sJNPjPiv1ZZZrxK110bg.ttf
+File Name: C:\Downloaded Web Sites\thememajestic.com\s\creteround\v14\55xoey1sJNPjPiv1ZZZrxK110bg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/creteround/v14/55xqey1sJNPjPiv1ZZZrxK1-4bHoKw.ttf
+File Name: C:\Downloaded Web Sites\thememajestic.com\s\creteround\v14\55xqey1sJNPjPiv1ZZZrxK1-4bHoKw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\thememajestic.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\thememajestic.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\thememajestic.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\thememajestic.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\thememajestic.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\thememajestic.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\thememajestic.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\thememajestic.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\thememajestic.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\thememajestic.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\thememajestic.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\thememajestic.com\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyVVpcBO5Xk.ttf
+File Name: C:\Downloaded Web Sites\thememajestic.com\s\robotocondensed\v27\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyVVpcBO5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWyosBO5Xk.ttf
+File Name: C:\Downloaded Web Sites\thememajestic.com\s\robotocondensed\v27\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWyosBO5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyXsosBO5Xk.ttf
+File Name: C:\Downloaded Web Sites\thememajestic.com\s\robotocondensed\v27\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyXsosBO5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64f8N1X5pKQ.ttf
+File Name: C:\Downloaded Web Sites\thememajestic.com\s\robotocondensed\v27\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64f8N1X5pKQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64RgK1X5pKQ.ttf
+File Name: C:\Downloaded Web Sites\thememajestic.com\s\robotocondensed\v27\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64RgK1X5pKQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64UYK1X5pKQ.ttf
+File Name: C:\Downloaded Web Sites\thememajestic.com\s\robotocondensed\v27\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64UYK1X5pKQ.ttf
+Content Type: font/ttf
+
+Uri: https://i.vimeocdn.com/video/239492174.jpg
+File Name: C:\Downloaded Web Sites\thememajestic.com\video\239492174.jpg
+Content Type: image/jpeg
+
